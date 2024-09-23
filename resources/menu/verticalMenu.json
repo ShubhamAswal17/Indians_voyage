@@ -7,6 +7,148 @@
       "slug": "pages-home"
     },
     {
+      "url": "Admin-Hotels",
+      "name": "Hotels",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Hotels",
+      "submenu": [
+        {
+          "url": "Admin-Hotels",
+          "name": "Add Hotels Places",
+          "slug": "pages-Hotels"
+        },
+        {
+          "url": "Admin-Hotels",
+          "name": "Add Hotels",
+          "slug": "pages-JungleSafari-Zones"
+        },
+        {
+          "url": "Admin-Hotels",
+          "name": "Hotel Bookings",
+          "slug": "pages-JungleSafari-Bookings"
+        }
+      ]
+    },
+    {
+      "url": "Admin-Safari",
+      "name": "Jungle Safari",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-JungleSafari",
+      "submenu": [
+        {
+          "url": "Admin-Safari",
+          "name": "Add Safari",
+          "slug": "pages-JungleSafari-Zones"
+        },
+        {
+          "url": "Admin-Safari-Zone",
+          "name": "Add Zones",
+          "slug": "pages-JungleSafari-Zones"
+        },
+        {
+          "url": "Admin-Safari-Bookings",
+          "name": "Safari Bookings",
+          "slug": "pages-JungleSafari-Bookings"
+        }
+      ]
+    },
+    {
+      "url": "Admin-Tour",
+      "name": "Tour Explore",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Tourexplore",
+      "submenu": [
+        {
+          "url": "Admin-Tour",
+          "name": "Add Tour",
+          "slug": "pages-Tour"
+        },
+        {
+          "url": "Admin-Tour-Bookings",
+          "name": "Tour Bookings",
+          "slug": "pages-Tour-Bookings"
+        }
+      ]
+    },
+    {
+      "url": "Admin-Events",
+      "name": "Event Management",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Events",
+      "submenu": [
+        {
+          "url": "Admin-Events",
+          "name": "Add Events",
+          "slug": "pages-Tour"
+        },
+        {
+          "url": "Admin-Events-Bookings",
+          "name": "Events Bookings",
+          "slug": "pages-Events-Bookings"
+        }
+      ]
+    },
+    {
+      "url": "Admin-Advanture",
+      "name": "Corbett Advantures",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Advanture",
+      "submenu": [
+        {
+          "url": "Admin-Advanture",
+          "name": "Add Advanture",
+          "slug": "pages-Tour"
+        },
+        {
+          "url": "Admin-Advanture-Bookings",
+          "name": "Advanture Bookings",
+          "slug": "pages-Advanture-Bookings"
+        }
+      ]
+    },
+    {
+      "url": "Admin-Festivals",
+      "name": "Upcoming Festivals",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Festivals"
+    },
+    {
+      "url": "Admin-Nationalparks",
+      "name": "National Parks",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Nationalparks"
+    },
+    {
+      "url": "Admin-Destination",
+      "name": "Near Destination",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Destination"
+    },
+    {
+      "url": "Admin-Traveling",
+      "name": "Traveling",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Traveling"
+    },
+    {
+      "url": "Admin-Things_to_do",
+      "name": "Things To Do",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Things-to-do"
+    },
+    {
+      "url": "Admin-Blogs",
+      "name": "Blogs",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Blogs"
+    },
+    {
+      "url": "Admin-Packages",
+      "name": "Packages",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-Blogs"
+    },
+    {
       "url": "page-2",
       "icon": "menu-icon tf-icons ti ti-file",
       "name": "Page 2",
