@@ -31,13 +31,13 @@ class Helpers
       'footerFixed' => false,
       'customizerControls' => [
         'rtl',
-      'style',
-      'headerType',
-      'contentLayout',
-      'layoutCollapsed',
-      'showDropdownOnHover',
-      'layoutNavbarOptions',
-      'themes',
+        'style',
+        'headerType',
+        'contentLayout',
+        'layoutCollapsed',
+        'showDropdownOnHover',
+        'layoutNavbarOptions',
+        'themes',
       ],
       //   'defaultLanguage'=>'en',
     ];
@@ -182,4 +182,5 @@ class Helpers
       }
     }
   }
+
 }
